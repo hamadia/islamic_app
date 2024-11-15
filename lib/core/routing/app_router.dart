@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:islamic_app/core/routing/routes.dart';
-import 'package:islamic_app/features/intro_screens/ui/intro_screens.dart';
+import 'package:islamic_app/features/intro/ui/intro_screens.dart';
 
 class AppRouter {
   Route generateRoute(RouteSettings settings) {

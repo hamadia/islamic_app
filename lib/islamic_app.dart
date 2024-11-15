@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:islamic_app/core/routing/app_router.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:islamic_app/core/routing/routes.dart';
-import 'package:islamic_app/core/themeing/colors.dart';
+import 'package:islamic_app/core/theming/colors.dart';
 
 class IslamicApp extends StatelessWidget {
   final AppRouter appRouter;
